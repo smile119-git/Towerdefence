@@ -15,6 +15,14 @@ public:
     explicit MainWindow3(QWidget *parent = nullptr);
     ~MainWindow3();
 
+private slots:
+    void on_slider_valueChanged(int value);
+
+    void on_pushButton_2_clicked();
+
+signals:
+    void sendsignal();//这个函数向主界面通知关闭的消息
+
 private:
     Ui::MainWindow3 *ui;
 };
