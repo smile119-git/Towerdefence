@@ -2,5 +2,12 @@
     <qresource prefix="/">
         <file>C:/Users/tongjiweijing/Desktop/Bg1.jpg</file>
         <file>C:/Users/tongjiweijing/Desktop/Bg2.jpg</file>
+        <file>C:/Users/tongjiweijing/Desktop/Bg3.png</file>
+        <file>C:/Users/tongjiweijing/Desktop/enemy.png</file>
+        <file>C:/Users/tongjiweijing/Desktop/tower.png</file>
+        <file>C:/Users/tongjiweijing/Desktop/icon_HP.png</file>
+        <file>C:/Users/tongjiweijing/Desktop/hdl.mp3</file>
+        <file>C:/Users/tongjiweijing/Desktop/crash.mp3</file>
+        <file>C:/Users/tongjiweijing/Desktop/bullet.png</file>
     </qresource>
 </RCC>

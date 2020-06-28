@@ -22,7 +22,7 @@ void MainWindow3::on_slider_valueChanged(int value)
     ui->sBox->setValue(value);
 }
 
-void MainWindow3::on_pushButton_2_clicked()
+void MainWindow3::on_pushButton_2_clicked()//关闭window3,回到winsow1
 {
     emit sendsignal();
     this->hide();
